@@ -1,0 +1,19 @@
+{
+  "name": "netgear_bhanu_w701",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "fs": "0.0.2",
+    "https-redirect-server": "^1.0.1",
+    "socket.io": "^1.3.7",
+    "underscore": "^1.8.3"
+  }
+}
